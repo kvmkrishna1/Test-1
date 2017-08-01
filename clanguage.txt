@@ -1,0 +1,6 @@
+#include <stdio.h>
+#math<stdio.h?
+{
+printf(");
+}
+
